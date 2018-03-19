@@ -1,0 +1,4 @@
+未安装软件：fiddler，httpwatch，linux，四个安装，xshell，redis，idea，eclipse热插件，nuxus私服
+视频播放器证书，
+
+	
